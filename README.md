@@ -13,6 +13,8 @@
 - The Output of Above preprocessed images are stored in another folder **processed_images** 
 - Again these processed images are given to model and the results are avaluated
 
+## Conclusion
+
 Here the conclusion is the Original images are trained and tested with the model and the same model trained and tested by thr processed Images - The Efficiency has been improved and Optimization can be acheived!
 
 
